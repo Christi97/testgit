@@ -1,3 +1,7 @@
 body {
   background-color: firebrick;
 }
+p {
+  color: darkblue;
+  font-size: 25px;
+}
